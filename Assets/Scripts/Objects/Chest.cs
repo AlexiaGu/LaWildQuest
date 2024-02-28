@@ -66,16 +66,6 @@ public class Chest : MonoBehaviour
         {
             isReach = false;
         }
-    }
 
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    }    
 }

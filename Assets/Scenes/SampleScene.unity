@@ -197,7 +197,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 428735218}
+  - component: {fileID: 428735217}
   m_Layer: 0
   m_Name: SimpleChest
   m_TagString: Untagged

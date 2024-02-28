@@ -66,5 +66,6 @@ public class Chest : MonoBehaviour
         {
             isReach = false;
         }
+
     }    
 }
